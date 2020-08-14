@@ -8,4 +8,4 @@ JS will be shared, not JSON because 1, it's easy to make, and 2, you don't get m
 # Commands (So Far)
 yb!help; shows the help page (duh)
 yb!invite; gives invite for talk
-yb!files; brings you here or to a google drive link to download the js
+yb!files; brings you here to download the js
